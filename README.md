@@ -10,4 +10,4 @@ Pure-Lua approximation of the Lune runtime for use in Termux / Lua 5.5.
 
 ```bash
 git clone https://github.com/StarIdksggsgsgs/Lune-LUA.git
-cd lune-lua-project
+cd Lune-LUA
